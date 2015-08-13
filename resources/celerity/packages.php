@@ -96,6 +96,7 @@ return array(
 
     'phabricator-remarkup-css',
     'syntax-highlighting-css',
+    'syntax-highlighting-css-pygment-orginal',
     'phui-pager-css',
     'aphront-tooltip-css',
     'phabricator-flag-css',
