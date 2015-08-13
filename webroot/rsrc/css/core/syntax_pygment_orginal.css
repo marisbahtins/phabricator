@@ -23,6 +23,8 @@
     background-color: #ffffcc;
 }
 
+.remarkup-code .err { border: 1px solid #FF0000 } /* Error */
+
 .remarkup-code .c, /* Comment */
 .remarkup-code .cm, /* Comment.Multiline */
 .remarkup-code .c1 { /* Comment.Single */
